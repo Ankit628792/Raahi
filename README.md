@@ -37,6 +37,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [Nitesh Kumar](https://www.linkedin.com/in/nitesh-kumar-4a223716b/)
 
-[Sahil Gupta](https://www.linkedin.com/in/sahilgupta04/)
+[Amit Kumar](https://www.linkedin.com/in/amit-g0swami/)
 
 [Ankit Kumar](https://www.linkedin.com/in/ankit628792/)
